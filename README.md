@@ -60,8 +60,8 @@ Práctica centrada en diseño responsivo, semántica, accesibilidad y código li
 
 ## 📈 GitHub Stats
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmunozw&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmunozw&layout=compact&theme=radical)
+> Actualmente sin tarjetas de estadísticas externas debido a que el servicio está pausado.  
+> Se reactivarán cuando vuelvan a estar disponibles.
 
 ---
 
