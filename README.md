@@ -1,62 +1,75 @@
-# 👋 ¡Hola! Soy Jorge Muñoz
+# 👋 Hola, soy Jorge Muñoz
 
-💻 **Desarrollador Web Junior** en transición desde Soporte IT  
-🔧 +10 años de experiencia resolviendo incidencias técnicas en entornos reales  
-📈 En proceso de reconversión profesional mediante aprendizaje autodidacta con plataformas como **MoureDev** y asistencia personalizada con **IA**
-
----
-
-## 🚀 Sobre mí
-
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Informáticas  
-- ✅ Bootcamp Full Stack finalizado en 2024 (Campus Dual TIC)  
-- 💡 Formación continua mediante proyectos reales y buenas prácticas  
-- 🤝 Comprometido con la mejora constante, el código limpio y el aprendizaje iterativo
+💻 **Desarrollador Web Junior**  
+🔧 +10 años de experiencia técnica (Soporte IT → transición al desarrollo)  
+📚 En crecimiento constante mediante retos reales y aprendizaje guiado
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## ⭐ Perfil profesional
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+Soy un Desarrollador Web en formación activa, con una base sólida en **HTML, CSS y JavaScript**, orientado a crear soluciones limpias, responsivas y mantenibles.  
+Mi fortaleza principal es la **disciplina**: progreso diario, mentalidad práctica y capacidad real de aprendizaje continuo.
 
----
+Actualmente desarrollo proyectos reales con:
 
-## 🧪 Explorando y practicando
+- **Frontend Mentor Pro** (rutas oficiales de aprendizaje)  
+- **MoureDev** (estructuración, buenas prácticas y lógica)  
 
-Actualmente profundizando en:
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+Busco un entorno donde seguir creciendo mientras aporto trabajo consistente, responsabilidad y mejora continua.
 
 ---
 
-## 📂 Mis proyectos
+## 🛠️ Tecnologías principales
 
-Aquí comparto mis avances, prácticas y proyectos personales mientras desarrollo mi portafolio como desarrollador.
-
-🔗 Revisa mis repositorios → [github.com/jmunozw](https://github.com/jmunozw)
+- **HTML5 semántico**  
+- **CSS3** (Flexbox, Grid, mobile-first, diseño fluido)  
+- **JavaScript básico – intermedio**  
+- **Python** (proyectos prácticos)  
+- **Git & GitHub**  
+- **Tkinter (GUI)**
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Actualmente aprendiendo
+
+Enfocado en la ruta profesional de Frontend Mentor Pro:
+
+- HTML accesible y semántico  
+- CSS moderno con buenas prácticas  
+- Diseño responsivo desde cero  
+- Testing visual en múltiples dispositivos  
+- Mejora de la arquitectura del código  
+- Próximo salto: **JavaScript aplicado a interfaces reales**  
+- Futuro cercano: **React** para proyectos escalables
+
+---
+
+## 📂 Proyectos principales
+
+🔹 **Frontend Mentor – Rutas de aprendizaje**  
+Práctica centrada en diseño responsivo, semántica, accesibilidad y código limpio.  
+👉 https://github.com/jmunozw
+
+🔹 **Python – Aplicaciones prácticas**
+- Gestor de tareas (evolución: procedural → funciones → clases)  
+- Gestor de Hábitos Diarios con interfaz gráfica (Tkinter)  
+- Ejercicios de lógica y estructuras
+
+---
+
+## 📈 GitHub Stats
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmunozw&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmunozw&layout=compact&theme=radical)
 
 ---
 
-## 📬 Conecta conmigo
+## 📬 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jorgemunozw/)
-- ✉️ Contacto disponible bajo solicitud
+- 💼 LinkedIn: https://www.linkedin.com/in/jorgemunozw/  
+- 📧 Email disponible por solicitud
 
 ---
 
-> “Un commit cada día es una promesa de crecimiento constante.”
+> “Mi meta es clara: aprender rápido, producir bien y crecer cada día.”
